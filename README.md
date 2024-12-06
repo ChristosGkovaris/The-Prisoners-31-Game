@@ -1,5 +1,5 @@
 # The Prisoner's 31 Game
-Welcome to "The Prisoner Game," a competitive and strategic game inspired by the classic "31". This project simulates the game between two players, where the goal is
+Welcome to "The Prisoner's 31 Game" repository, a competitive and strategic game inspired by the classic "31". This project simulates the game between two players, where the goal is
 to accumulate points without exceeding a limit.
 
 
